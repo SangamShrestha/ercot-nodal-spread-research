@@ -1,0 +1,2 @@
+selected_start_hour,selected_end_hour,selected_threshold,train_start,train_end,test_start,test_end,nodes
+10,20,10,2026-01-25,2026-03-16,2026-03-17,2026-04-24,"BRTSW_BCW1,BRAUNIG_VHB1,BRA_AVR1_CT2,BRAUNIG_VHB2,BRAUNIG_VHB3"

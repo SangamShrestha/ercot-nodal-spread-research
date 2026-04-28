@@ -1,0 +1,3 @@
+label,rows,total_net_pnl,mean_trade_pnl,win_rate,annualized_sharpe,max_drawdown,num_days
+Train Top 15 selected strategy,2282,4330.27,1.9,44.1,2.26,-3278.72,44
+Test Top 15 selected strategy,2548,26677.3,10.47,66.8,9.25,-759.61,44

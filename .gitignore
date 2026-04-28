@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Raw/cached data
+data/raw/
+ercot_cache/
+
+# OS files
+.DS_Store
