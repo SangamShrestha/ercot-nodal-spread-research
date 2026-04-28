@@ -51,16 +51,10 @@ Because ERCOT congestion is regime-dependent, this result should not be interpre
 
 ## Figures
 
-### Cumulative Net PnL
-<a href="https://github.com">
-  <img src="figures/official_top15_test_cumulative_pnl.png" alt="Top 15 Test Cumulative Net PnL">
-</a>
+The generated project figures are available in the `figures/` directory:
 
-### Drawdown
-<a href="https://github.com">
-  <img src="figures/official_top15_test_drawdown.png" alt="Top 15 Test Drawdown">
-</a>
-
+- `figures/official_top15_test_cumulative_pnl.png`
+- `figures/official_top15_test_drawdown.png`
 
 ## Future Work
 
