@@ -52,12 +52,15 @@ Because ERCOT congestion is regime-dependent, this result should not be interpre
 ## Figures
 
 ### Cumulative Net PnL
-
-[![Top 15 Test Cumulative Net PnL](figures/official_top15_test_cumulative_pnl.png)](https://github.com/SangamShrestha/ercot-nodal-spread-research/blob/main/figures/official_top15_test_cumulative_pnl.png)
+<a href="https://github.com">
+  <img src="figures/official_top15_test_cumulative_pnl.png" alt="Top 15 Test Cumulative Net PnL">
+</a>
 
 ### Drawdown
+<a href="https://github.com">
+  <img src="figures/official_top15_test_drawdown.png" alt="Top 15 Test Drawdown">
+</a>
 
-[![Top 15 Test Drawdown](figures/official_top15_test_drawdown.png)](https://github.com/SangamShrestha/ercot-nodal-spread-research/blob/main/figures/official_top15_test_drawdown.png)
 
 ## Future Work
 
